@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "nopCommerce site",
+    "children" : [ {
+      "name" : "Order from the nopCommerce site",
+      "uid" : "6f326acf4f3a2e5d",
+      "parentUid" : "6e0ce4915e0894d41edba1a754bab980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653310038407,
+        "stop" : 1653310055745,
+        "duration" : 17338
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6e0ce4915e0894d41edba1a754bab980"
+  } ]
+}

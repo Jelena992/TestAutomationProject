@@ -1,0 +1,51 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-CUUMT05",
+    "children" : [ {
+      "name" : "18292@DESKTOP-CUUMT05.TestNG-PoolService-0(17)",
+      "children" : [ {
+        "name" : "Order from the nopCommerce site",
+        "uid" : "6f326acf4f3a2e5d",
+        "parentUid" : "08450763949480d8f4c061b9fa484acf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653310038407,
+          "stop" : 1653310055745,
+          "duration" : 17338
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "08450763949480d8f4c061b9fa484acf"
+    }, {
+      "name" : "14164@DESKTOP-CUUMT05.TestNG-PoolService-0(16)",
+      "children" : [ {
+        "name" : "Order from the nopCommerce site",
+        "uid" : "b53b3965746dfa37",
+        "parentUid" : "3356d62ac2536ebc3a4d70c2f6a932d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653309947932,
+          "stop" : 1653309965628,
+          "duration" : 17696
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3356d62ac2536ebc3a4d70c2f6a932d0"
+    } ],
+    "uid" : "923055eaf5c5167265daf0cfb66e03b9"
+  } ]
+}
